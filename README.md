@@ -57,7 +57,7 @@
 
 🌐 **Connect with Me:**
 
-- 🌍 [Portfolio]()
+- 🌍 [Portfolio](https://nirali-personal-portfolio.netlify.app/)
 - 💼 [LinkedIn](www.linkedin.com/in/nirali-prajapati-4536042a3)
 - 📧 [Email](mailto:niraliprajapati106@gmail.com)
 
